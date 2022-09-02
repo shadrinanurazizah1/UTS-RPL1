@@ -1,0 +1,10 @@
+console.log("Hello World");
+console.log("Nama : Shadrina Nurazizah");
+console.log("Kelas : XI RPL 1");
+console.log("Jenis Kelamin : Perempuan");
+console.log("Tempat Tanggal Lahir : Bandung , 25 Mei 2006");
+console.log("Agama : Islam");
+console.log("Alamat : Citamiang Kaler 04/06");
+console.log("Umur : 16 tahun");
+console.log("Hobi : Nontonin vlog jerome");
+console.log("Nama Pacar : mas f");
